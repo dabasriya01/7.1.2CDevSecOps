@@ -1,1 +1,3 @@
-# 7.1.2CDevSecOps
+# 7.2CDevSecOps
+
+SonarCloud Integration Completed
